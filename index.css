@@ -1,0 +1,32 @@
+.in {
+  list-style-type: none;
+}
+.row{
+  margin-left: 100px;
+  width:1200px;
+  height: 300px
+}
+
+
+.thumbnail{
+  width: 300px;
+  margin-left: 300px;
+  margin-top: -590px;
+}
+.thumbnail2{
+    width: 300px;
+    margin-left: 700px;
+    margin-top: -400px;
+}
+.thumbnail3{
+    width: 300px;
+    margin-left: 1090px;
+    margin-top: -405px;
+}
+.anu{
+  margin-left: 700px;
+}
+.pagination{
+  margin-left: 680px;
+  margin-top: 60px;
+}
